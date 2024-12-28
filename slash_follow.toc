@@ -1,0 +1,6 @@
+## Interface: 11501
+## Title: slash_follow
+## Author: extremobemo
+## Version: 1.0
+
+slash_follow.lua
